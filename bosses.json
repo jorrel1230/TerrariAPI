@@ -1,0 +1,9 @@
+{
+    "King_Slime": {
+        "name": "King Slime",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/93/King_Slime.gif/revision/latest?cb=20200523113558&format=original",
+        "icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5e/Map_Icon_King_Slime.png/revision/latest?cb=20170623015743&format=original",
+        "npc_id": 50,
+        "summon_item_id": 560
+    }
+}
