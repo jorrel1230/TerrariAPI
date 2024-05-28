@@ -1,8 +1,51 @@
 
 {
     "9": {
-        "item": "wood",
+        "item": "Wood",
         "type": "block",
         "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/df/Wood.png/revision/latest?cb=20200516223631&format=original"
+    },
+
+    "43": {
+        "item": "Suspicious Looking Eye",
+        "type": "Boss Summon",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/24/Suspicious_Looking_Eye.png/revision/latest?cb=20200516222709&format=original"
+    },
+
+    "70": {
+        "item": "Worm Food",
+        "type": "Boss Summon",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Worm_Food.png/revision/latest?cb=20200808230022&format=original"
+    },
+    
+
+    "267": {
+        "item": "Guide Voodoo Doll",
+        "type": "Boss Summon",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1b/Guide_Voodoo_Doll.png/revision/latest?cb=20200516213744&format=original"
+    },
+
+    "560": {
+        "item": "Slime Crown",
+        "type": "Boss Summon",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8b/Slime_Crown.png/revision/latest?cb=20200516222006&format=original"
+    },
+
+    "1133": {
+        "item": "Abeemination",
+        "type": "Boss Summon",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/eb/Abeemination.png/revision/latest?cb=20200516182619&format=original"
+    },
+
+    "1307": {
+        "item": "Clothier Voodoo Doll",
+        "type": "Boss Summon",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7c/Clothier_Voodoo_Doll.png/revision/latest?cb=20200516205545&format=original"
+    },
+
+    "1331": {
+        "item": "Bloody Spine",
+        "type": "Boss Summon",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Bloody_Spine.png/revision/latest?cb=20200516193559&format=original"
     }
 }
